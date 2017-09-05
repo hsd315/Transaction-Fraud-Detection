@@ -1,5 +1,5 @@
 ## Goal:
-### To create explainable model and generate business insights to predict fraud transactions in the future. The data is private, so cannot be shared.
+To create explainable model and generate business insights to predict fraud transactions in the future. The data is private, so cannot be shared.
 
 ## Feature Engineering 
 
